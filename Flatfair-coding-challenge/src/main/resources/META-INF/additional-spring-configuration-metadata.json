@@ -1,0 +1,33 @@
+{
+  "properties": [
+    {
+      "name": "VAT",
+      "type": "java.lang.Double",
+      "description": "Description for VAT."
+    },
+    {
+      "name": "Minimum_Fee",
+      "type": "java.lang.Integer",
+      "description": "Description for Minimum_Fee."
+    },
+    {
+      "name": "Minimum_week_rent",
+      "type": "java.lang.Integer",
+      "description": "Description for Minimum_week_rent."
+    },
+    {
+      "name": "Minimum_month_rent",
+      "type": "java.lang.Integer",
+      "description": "Description for Minimum_month_rent."
+    },
+    {
+      "name": "Maximum_week_rent",
+      "type": "java.lang.Integer",
+      "description": "Description for Maximum_week_rent."
+    },
+    {
+      "name": "Maximum_month_rent",
+      "type": "java.lang.Integer",
+      "description": "Description for Maximum_month_rent."
+    }
+  ] }
