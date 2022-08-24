@@ -24,10 +24,8 @@ import javax.validation.constraints.NotNull;
 public class RentUnit {
 
     @Range(min=1, max=Integer.MAX_VALUE)
-    @NotNull
     Integer rent_amount;
 
-    @NotNull
     String rent_period;
 
     OrganisationUnit organisation_unit;
